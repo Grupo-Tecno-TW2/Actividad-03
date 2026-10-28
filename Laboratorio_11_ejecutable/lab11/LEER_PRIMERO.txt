@@ -1,0 +1,11 @@
+LABORATORIO 11 — TECNOLOGIA WEB II
+
+1. Trabaje en la carpeta inicio, no en solucion.
+2. Consulte HOJA_TRABAJO.md y la Guia Pedagogica del Estudiante.
+3. El archivo comun/Verificador.php se encuentra DOS niveles arriba de inicio y solucion.
+4. Para iniciar: abrir PowerShell dentro de lab11/inicio; ejecutar composer install o composer dump-autoload.
+5. Para los laboratorios 08-11: docker compose up -d; docker compose ps; esperar healthy.
+6. Para ejecutar el sitio: php -S 127.0.0.1:8000 -t public public/index.php
+7. Para evaluar: en otra consola de la misma carpeta, php verificar.php.
+8. La carpeta solucion es referencia docente; no copiarla sobre inicio.
+9. El resultado 88/88 se obtuvo en las seis carpetas solucion, no en inicio.

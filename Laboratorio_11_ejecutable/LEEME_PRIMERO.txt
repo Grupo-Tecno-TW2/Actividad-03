@@ -1,0 +1,9 @@
+TECNOLOGIA WEB II — PAQUETE INTEGRAL LAB06–LAB11
+
+Extraiga el ZIP completo en C:\TW2\recuperacion o en una ruta de su preferencia.
+No extraiga las carpetas por separado: cada verificar.php depende de comun/Verificador.php.
+No ejecute ningun instalador .ps1; el verificador ya viene en su ubicacion correcta.
+Lea Guia_Estudiante_Lab06_Lab11.docx.
+En cada labXX: inicio = practica; solucion = referencia docente.
+El archivo comun/Verificador.php incluye soporte de cookies para lab10/11 y evita curl_close obsoleto.
+Se conservaron los archivos originales de los ZIP, sin reemplazar las actividades TODO.
